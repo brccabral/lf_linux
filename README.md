@@ -7,3 +7,5 @@ Configurations to setup lf on Linux
 - `pip install ueberzug`
 - Create folder `~/.config/lf`
 - Copy files from this repo into the config folder
+
+If you have problems with icons, follow these instructions https://gist.github.com/brccabral/7e61b7e5b8f7e94c581cd04c6dcedb13
